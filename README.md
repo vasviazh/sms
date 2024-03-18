@@ -1,4 +1,4 @@
-Introducing SMS: Modular Messaging System
+**Introducing SMS: Modular Messaging System**
 
 SMS is a groundbreaking example application designed to showcase the integration of event-based
 and multithreaded message exchange among separate program modules. Developed by Vasil Viazhevich
@@ -9,5 +9,6 @@ differences between multithreaded and event-based applications while learning ho
 architectures. Whether for educational purposes or testing program performance, SMS offers a comprehensive
 platform for exploration and experimentation.
 
-Watch the Presentation: You can watch the conference presentation video on YouTube: https://www.youtube.com/watch?v=4M4z9JbqMAo.
 Unlock the potential of SMS for your educational and performance testing needs.
+
+**Watch the Presentation:** You can watch the conference presentation video on YouTube: https://www.youtube.com/watch?v=4M4z9JbqMAo.
